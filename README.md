@@ -1,1 +1,1 @@
-# Fine-tune-resnet-for-classification
+# Fine tune resnet for classification
